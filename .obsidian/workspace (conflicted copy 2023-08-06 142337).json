@@ -74,21 +74,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "43ee2bbaee02e793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2023-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2023-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "2023-07-18.md"
               }
             }
           },
@@ -234,10 +222,8 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "43ee2bbaee02e793",
+  "active": "2906d7015bafaa96",
   "lastOpenFiles": [
-    "2023-07-18.md",
-    "Home.md",
     "Petrosoft/Business/Organograma/Organograma PetroSoft.excalidraw.md",
     "netlify.toml",
     "Petrosoft/Business/Organograma/Desenvolvedores.md",
@@ -248,6 +234,7 @@
     "Petrosoft/Business/Organograma/Teste e validação.md",
     "Liferay/institucional/Componentes/Script para indicar quais fragmentos foram modificados.md",
     "Liferay/Publications/Publications.md",
+    "2023-07-18.md",
     "Liferay/Liferay.md",
     "Petrosoft/Business/Organograma",
     "Petrosoft/Business",
