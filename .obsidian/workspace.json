@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "07d65d1298d1109e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f69286a75414fd6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "864403eccf8d107c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a691caefd1e58f98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liferay/Liferay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06277bd65aee8316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dd576db7cc8e5aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liferay/Publications/Publications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d993b1ee7c462b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Petrosoft/Business/Organograma/Teste e validação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2906d7015bafaa96",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Petrosoft/Business/Organograma/Organograma PetroSoft.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe8d1ea00088a5bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d6e2a911e13d9cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f9bc71093772057",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3111a6e5f47057b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e081aba9d4b714b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "536b0a5376b61114",
+    "type": "split",
+    "children": [
+      {
+        "id": "e888410a334fe53d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f50677753d5e6303",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Petrosoft/Business/Organograma/Organograma PetroSoft.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6895f50167a2215d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Petrosoft/Business/Organograma/Organograma PetroSoft.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fde0a8ab2f27f2cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a00b40053cf7a67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Petrosoft/Business/Organograma/Organograma PetroSoft.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8a557e108b729b1a",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "185824534efecc7f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "2906d7015bafaa96",
+  "lastOpenFiles": [
+    "Petrosoft/Business/Organograma/Desenvolvedores.md",
+    "Petrosoft/Business/Organograma/Controle de documentação.md",
+    "Petrosoft/Business/Organograma/Organograma PetroSoft.excalidraw.md",
+    "Petrosoft/Business/Organograma/Analista de sistemas.md",
+    "Petrosoft/Business/Organograma/Acompanhamento de defeitos do cliente.md",
+    "Petrosoft/Business/Organograma/Líder técnico.md",
+    "Petrosoft/Business/Organograma/Teste e validação.md",
+    "Liferay/institucional/Componentes/Script para indicar quais fragmentos foram modificados.md",
+    "Liferay/Publications/Publications.md",
+    "2023-07-18.md",
+    "Liferay/Liferay.md",
+    "Petrosoft/Business/Organograma",
+    "Petrosoft/Business",
+    "Petrosoft",
+    "Excalidraw/explicação merge com multiplos branchs para evitar conflitos.excalidraw.md",
+    "Excalidraw/Proposta de organização divisão business.md",
+    "Anotações diárias/2023-08-04.md",
+    "Excalidraw/Pessoal/templates/Template nota diária.md",
+    "Excalidraw/Pessoal/Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Excalidraw/Pessoal/Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Excalidraw/Pessoal/Projects - Demo Project/Untitled note.md",
+    "Excalidraw/Pessoal/Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Excalidraw/Pessoal/templates",
+    "Excalidraw/Pessoal/Liferay/institucional/páginas/Pasted image 20230718203943.png",
+    "Excalidraw/Pessoal/Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Excalidraw/Pessoal/Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Excalidraw/Pessoal/Liferay/institucional/páginas/planejamento estratégico.md",
+    "Excalidraw/Pessoal/Liferay/institucional/Componentes/Script para indicar quais fragmentos foram modificados.md",
+    "Excalidraw/Pessoal/Liferay/institucional/Componentes/Card - Link.md",
+    "Excalidraw/Pessoal/Liferay/institucional/Componentes/Card - Conteúdo.md",
+    "Excalidraw/Pessoal/Projects - Demo Project",
+    "Excalidraw/Pessoal/Liferay/institucional/Componentes",
+    "Excalidraw/Pessoal/Liferay/Liferay.md",
+    "Excalidraw/Pessoal/Liferay/institucional/páginas/Pasted image 20230718203848.png",
+    "Excalidraw/Pessoal/Liferay/Publications/Pasted image 20230718202433.png",
+    "Excalidraw/Pessoal/Liferay/Fragmentos/Pasted image 20230718212315.png",
+    "Excalidraw/Pessoal/Liferay/institucional/páginas",
+    "Excalidraw/Pessoal/Liferay/institucional",
+    "Excalidraw/Pessoal/Liferay/Publications",
+    "Excalidraw/Pessoal/Liferay/Permissões",
+    "Liferay/Fragmentos/Pasted image 20230718212315.png",
+    "Liferay/institucional/páginas/Pasted image 20230718203848.png",
+    "Liferay/Publications/Pasted image 20230718202433.png",
+    "Liferay/institucional/páginas/Pasted image 20230718203943.png"
+  ]
+}

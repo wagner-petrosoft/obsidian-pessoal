@@ -1,0 +1,1 @@
+Uma variação do card padrão com o possibilidade de ter links

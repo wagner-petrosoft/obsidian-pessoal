@@ -1,0 +1,1 @@
+Uma variação do card Padrão que será 
